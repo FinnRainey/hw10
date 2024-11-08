@@ -1,0 +1,13 @@
+name: franeyHW9
+title: Accident Shiny
+username: f1nn3g4n
+account: f1nn3g4n
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13170695
+bundleId: 9334946
+url: https://f1nn3g4n.shinyapps.io/franeyHW9/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|audio1723640852.m4a|FLcountypop.xlsx|recording.conf|video1723640852.mp4
